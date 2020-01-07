@@ -1,8 +1,8 @@
-- [莫烦Python](https://morvanzhou.github.io/)  
+- [莫烦Python](https://morvanzhou.github.io/)
 
-- [Python第三方库](https://pypi.org/) 
+- [Python第三方库](https://pypi.org/)
 
-- [用Python学习科学编程](https://scipython.com/) 
+- [用Python学习科学编程](https://scipython.com/)
 
 - [如何像计算机科学家一样思考：互动版](http://interactivepython.org/courselib/static/thinkcspy/index.html)  
 
@@ -16,7 +16,8 @@
 
 - [恋习Python](https://zhuanlan.zhihu.com/c_149865214)
 
+- [Python 挑战](pythonchallenge.com/)
 
 ### 模块
-- [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)
 
+- [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)

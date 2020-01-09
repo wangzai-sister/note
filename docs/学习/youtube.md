@@ -59,3 +59,5 @@
 - [代码真香](https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw/about)
 
 - [Madelief Schram](https://www.youtube.com/channel/UC0cJHLIugWfd0eGIitA3ZDw/featured)
+
+- [Melon爸爸](https://www.youtube.com/channel/UCz2M8fFtkQE8gzdK8OrHXkQ)

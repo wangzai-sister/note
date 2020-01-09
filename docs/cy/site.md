@@ -1,5 +1,7 @@
 - [推特](https://twitter.com/)
 
+- [深度论坛](https://bbs.deepin.org/)
+
 - [Medium](https://medium.com/)
 
 - [廖雪峰](liaoxuefeng.com/)
@@ -12,11 +14,7 @@
 
 - [菜鸟教程](https://www.runoob.com/)
 
-- [Imgur](https://imgur.com/)
-
 - [Quora](https://www.quora.com/)
-
-- [深度论坛](https://bbs.deepin.org/)
 
 - [数学乐](shuxuele.com)
 

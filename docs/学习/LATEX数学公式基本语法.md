@@ -2,35 +2,56 @@
 
 有两种方式插入公式:
 
-对于行内公式来说,使用`$你的公式$`,
+对于行内公式来说，使用`$你的公式$`:
 
-显然对应的独立的公式就是`$$你的公式$$`.
+```latex
+$a + b = c$
+```
+
+$a + b = c$
+
+独立的公式就是`$$你的公式$$`:
+
+```latex
+$$ a + b = c $$
+```
+
+$$ a + b = c $$
 
 ### 2. 上下标
 
-`^`表示上标,`_`表示下标,正下方的用`\mathop{主体}\limits_下标`,正上方同理.
+`^`表示上标，`_`表示下标，正下方的用`\mathop{主体}\limits_下标`，正上方同理.
 
-上下标的内容太多的话,使用`{}`包起来.上下标可以互相嵌套.
+上下标的内容太多的话，使用`{}`包起来.上下标可以互相嵌套.
 
-举个例子:`a{b^c}=(1+a^b)^{-2ac^b}`
+```latex
+a{b^c}=(1+a^b)^{-2ac^b}
+```
 
-显示:
 $$
 a{b^c}=(1+a^b)^{-2ac^b}
 $$
 
-### 3. 分数
+```latex
+{}^1_2\mathop{0}\limits_3^6{}^5_4
+```
 
-例子: `\frac{2}{7}`
+$$ {}^1_2\mathop{0}\limits_3^6{}^5_4 $$
 
-显示:
+### 3. 分数(fraction)
+
+```latex
+\frac{2}{7}
+```
+
 $$
 \frac{2}{7}
 $$
 
-再来个: `\frac{\rm {d} u}{\rm {d} x}|_{x=0}`
+```latex
+\frac{\rm {d} u}{\rm {d} x}|_{x=0}
+```
 
-显示:
 $$
 \frac{\rm {d} u}{\rm {d} x}|_{x=0}
 $$
@@ -38,112 +59,124 @@ $$
 ### 4. 括号与分隔符
 
 为了表示整体的时候请用`{}`
-`()`,`[]`,`|`都表示自己要表示`{}`需要`\{\}`转义.
+`()`，`[]`，`|`.
+
+要表示`{}`需要`\{\}`转义.
 
 显示特大的括号时候需要使用`\left`和`\right`.
 
-举个例子:`\{c+\left(\frac{(a+b)|_{a=1}}{[a+c]}\right)_{c=0}\}+d`
+```latex
+\{c+\left(\frac{(a+b)}}{[a+c]}\right)_{c=0}\}+d
+```
 
-显示:
 $$
-{c+\left(\frac{(a+b)|{a=1}}{[a+c]}\right){c=0}}+d
+\{c+\left(\frac{a+b}{a+c}\right)_{c=0}\}+d
 $$
 
 ### 5. 乘除
 
-加减直接用就行,乘法用`\times`,除法用`\div`
+加减直接用就行，乘法用`\times`，除法用`\div`
 
-例子: `(x+y\times x^2)\div3`
-
-显示:
-$$
+```latex
 (x+y\times x^2)\div3
+```
+
+$$
+(x+y \times x^2) \div 3
 $$
 
 ### 6. 开方
 
-例子: `\sqrt{3}`,`\sqrt[n]{3}`
+```latex
+\sqrt{3}，\sqrt[n]{3}
+```
 
-显示:
-$$ \sqrt{3},\sqrt[n]{3} $$
+$$ \sqrt{3}，\sqrt[n]{3} $$
 
 ### 7. 函数
 
 直接用`f()`就好了
 
-例子: `f(x+y^2)=(x^3+y)^{y^2}`
+```latex
+f(x+y^2)=(x^3+y)^{y^2}
+```
 
-显示:
 $$
 f(x+y^2)=(x^3+y)^{y^2}
 $$
 
 ### 8. 矢量
 
-`.`使用`\cdot`表示,矢量用`\vec`
+$\cdot$ 使用 `\cdot` 表示，矢量用 `\vec`
 
-例子: `\vec{x}\cdot\vec{y}`
+```latex
+\vec{x}\cdot\vec{y}
+```
 
-显示:
 $$
 \vec{x}\cdot\vec{y}
 $$
 
 ### 9. 微积分
 
-一重积分用`\int`，二重`\iint`，依此类推…
+一重积分用 `\int`，二重 `\iint`，依此类推…
 
-曲线积分用`\oint`，完了曲面积分`\oiint`
+曲线积分用 `\oint`，完了曲面积分 `\oiint`
 
-微分用`\rm {d}`
+微分用 `\rm {d}`
 
-导数`'`就代表自己
+导数 `'` 就代表自己
 
-例子: `\int_{\alpha(x)}^{\beta(x)}\frac{\partial{f(x,y)}}{\partial x}\rm dy +\beta'(x)`
+``` latex
+\int_{\alpha(x)}^{\beta(x)}\frac{\partial{f(x，y)}}{\partial x}\rm dy +\beta'(x)
+```
 
-显示:
 $$
-\int_{\alpha(x)}^{\beta(x)}\frac{\partial{f(x,y)}}{\partial x}\rm dy +\beta'(x)
+\int_{\alpha(x)}^{\beta(x)}\frac{\partial{f(x，y)}}{\partial x}\rm dy +\beta'(x)
 $$
 
-来个格林公式:` \mathop{\iint}\limits_D\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right )dxdy=\oint _LPdx+Qdy`
+```latex
+格林公式
+\mathop{\iint}\limits_D\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right )dxdy=\oint _LPdx+Qdy
+```
 
-显示:
 $$
 \mathop{\iint}\limits_D\left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right )dxdy=\oint _LPdx+Qdy
 $$
 
 ### 10. 极限
 
-极限用`\lim{}`
+极限用 `\lim{}`
 
-箭头用`\rightarrow`
+箭头用 `\rightarrow`
 
-无限用`\infty`
+无限用 `\infty`
 
-例子: `\mathop{\lim}\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}`
+```latex
+\mathop{\lim}\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}
+```
 
-显示:
 $$
 \mathop{\lim}\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}
 $$
 
-### 11. 累加,累乘
+### 11. 累加，累乘
 
-例子: `\mathop{\sum}\limits_{i=0}\limits^n \frac{1}{i^2}`和	 `\mathop{\prod}\limits_{i=0}\limits^n \frac{1}{i^2}`
+```latex
+\mathop{\sum}\limits_{i=0}\limits^n \frac{1}{i^2}
 
-显示:
-$$
-\begin{split}
-\mathop{\sum} \limits_{i=0}\limits^n \frac{1}{i^2},   \\\\
 \mathop{\prod}\limits_{i=0}\limits^n \frac{1}{i^2}
-\end{split}
-$$
+```
+
+$$\mathop{\sum} \limits_{i=0}\limits^n \frac{1}{i^2}$$
+
+$$\mathop{\prod}\limits_{i=0}\limits^n \frac{1}{i^2}$$
 
 ### 12. 矩阵
 
 矩阵标准形式是
-```
+
+```latex
 \begin{matrix}
    1 & 2 & 3 \\\\
    4 & 5 & 6 \\\\
@@ -151,7 +184,6 @@ $$
 \end{matrix}
 ```
 
-显示:
 $$
 \begin{matrix}
    1   &   2    &   3 \\\\
@@ -159,15 +191,14 @@ $$
    7   &   8    &   9 \\\\
 \end{matrix}
 $$
-`&`代表空格,`\\`表示换行，不知道怎么回事要使用`\\\\`才行。
 
-我们看到上面的矩阵是不带括号的,要加括号可以使用`\left{`或者`\left[`,啥样的随你挑,右边同理.
+`&` 代表空格，`\\` 表示换行，不知道怎么回事要使用 `\\\\` 才行。
 
-还有一种方法是替换`martix`了,`bmartix`表示带`[`的,`Bmartix`表示`{`,`pmartix`表示`(`,`vmartix`表示`|`...
+我们看到上面的矩阵是不带括号的，要加括号可以使用 `\left{` 或者 `\left[` ，啥样的随你挑，右边同理.
 
-例子:
+还有一种方法是替换 `martix` 了，`bmartix` 表示带 `[` 的， `Bmartix` 表示 `{` ， `pmartix` 表示 `(`，`vmartix` 表示 `|`...
 
-```
+```latex
 \begin{Bmatrix}
 3 & 4  \\\\
 7 & 5
@@ -184,7 +215,6 @@ $$
 \right)
 ```
 
-显示:
 $$
 \begin{Bmatrix}
 3 & 4  \\\\
@@ -202,17 +232,17 @@ $$
 \right)
 $$
 
-麻烦的很,如果只是两行一列的可以用简单的`\binom{x=1}{y=2}`
+麻烦的很，如果只是两行一列的可以用简单的 `\binom{x=1}{y=2}`
 
-显示:
 $$
 \binom{x=1}{y=2}
 $$
- 之前那些矩阵输出自动成行,这儿输出的自动行内样式,怎么变大不用我说了吧.
 
-带省略符号的矩阵`...`用`\cdots`,竖着的用`\vdots`,斜着的用`\ddots`
+之前那些矩阵输出自动成行，这儿输出的自动行内样式，怎么变大不用我说了吧.
 
-```
+带省略符号的矩阵 `...` 用 `\cdots`，竖着的用 `\vdots`，斜着的用 `\ddots`
+
+```latex
 \left[
 \begin{matrix}
  1      & 2      & \cdots & 4      \\\\
@@ -223,7 +253,6 @@ $$
 \right]
 ```
 
-显示:
 $$
 \left[
 \begin{matrix}
@@ -234,9 +263,10 @@ $$
 \end{matrix}
 \right]
 $$
-有特殊需求的可以用array,然后用c,l,r控制样式,分别表示居中对齐,左对齐,右对齐.比如增广矩阵:
 
-```
+有特殊需求的可以用 array，然后用 c，l，r控制样式，分别表示居中对齐，左对齐，右对齐.比如增广矩阵:
+
+```latex
  \left[
   \begin{array}{cc|c}
     1 & 2 & 3 \\\\
@@ -245,7 +275,6 @@ $$
 \right]
 ```
 
-显示:
 $$
 \left[
   \begin{array}{cc|c}
@@ -257,9 +286,9 @@ $$
 
 ### 13. 方程组
 
-和矩阵差不多的,左边有括号想用啥用啥,右边没括号用`\right`
+和矩阵差不多的，左边有括号想用啥用啥，右边没括号用 `\right`
 
-```
+```latex
 \left\\{
 \begin{array}{ccc}
 x^2 + y^2 &=& z^2 \\\\
@@ -268,7 +297,6 @@ x^3 + y^3 &<& z^3
 \right.
 ```
 
-显示:
 $$
 \left\\{
 \begin{array}{ccc}
@@ -277,26 +305,26 @@ x^3 + y^3 &<& z^3
 \end{array}
 \right.
 $$
+
 当然还有些更简单的方案
 
-```latx
+```latex
 \begin{cases}
-x^2+y^2=z^2,x=1\\\\
-z^2+y^2=x^3,y=2
+x^2+y^2=z^2，x=1\\\\
+z^2+y^2=x^3，y=2
 \end{cases}
 ```
 
-显示:
 $$
 \begin{cases}
-x^2+y^2=z^2,x=1\\\\
-z^2+y^2=x^3,y=2
+x^2+y^2=z^2，x=1\\\\
+z^2+y^2=x^3，y=2
 \end{cases}
 $$
 
 ### 14. 希腊字母
 
-数学公式里一堆堆的希腊字母,来一个个说吧.
+数学公式里一堆堆的希腊字母，来一个个说吧.
 
 |  符号  |  表示方法 |    符号     |  表示方法 |
 | --------- | -------- | --------- | ----------- |
@@ -386,13 +414,13 @@ $$
 
 ### 16. 转义等问题
 
-在markdown中`_word_`表示斜体,于是在LaTex中,要使用`\_`
+在markdown中`_word_`表示斜体，于是在LaTex中，要使用`\_`
 
 输入矩阵时候`\\`用写成`\\\`
 
-输出字符:{,},_时候要用`\\{`,`\\}`,`\_`
+输出字符:{，}，_时候要用`\\{`，`\\}`，`\_`
 
-要输出字符`空格`,`#`,`$`,`%`,`&`用命令:`\空格`, `\#`, `\$`,`\%`,`\&`.
+要输出字符`空格`，`#`，`$`，`%`，`&`用命令:`\空格`， `\#`， `\$`，`\%`，`\&`.
 
 ### 17. 标注
 

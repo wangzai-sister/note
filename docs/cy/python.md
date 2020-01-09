@@ -16,7 +16,7 @@
 
 - [恋习Python](https://zhuanlan.zhihu.com/c_149865214)
 
-- [Python 挑战](pythonchallenge.com/)
+- [Python 挑战](http://www.pythonchallenge.com/)
 
 ### 模块
 

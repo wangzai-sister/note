@@ -10,4 +10,6 @@
 
 - [绝世 - (电视剧《水月洞天》主题曲)](https://music.163.com/#/search/m/?id=498767570&s=%E6%B0%B4%E6%9C%88%E6%B4%9E%E5%A4%A9&type=1)
 
+- [男儿当自强](https://music.163.com/#/song?id=92428)
+
 ### 播客

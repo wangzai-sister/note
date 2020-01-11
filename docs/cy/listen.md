@@ -12,4 +12,6 @@
 
 - [男儿当自强](https://music.163.com/#/song?id=92428)
 
+- [Yesterday Once More](https://music.163.com/#/song?id=3986241)
+
 ### 播客

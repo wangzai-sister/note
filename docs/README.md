@@ -23,7 +23,3 @@ github：<a href="https://github.com/dingeral">dingeral</a>
 ![ENK25mLWkAIhhf2.jpeg](https://i.loli.net/2020/01/03/OsdmXykYZFpjg3q.jpg)
 
 1905 年，欧内斯特·卢瑟福在麦吉尔大学。卢瑟福是出生于新西兰的英国物理学家，后来被称为核物理学之父。
-
-大英百科全书认为他是自迈克尔·法拉第以来最伟大的实验主义者。
-
-$$ {}^1_2\mathop{0}\limits_3^6{}^5_4 $$

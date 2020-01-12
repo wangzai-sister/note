@@ -1,3 +1,5 @@
+### Up主
+
 - 键客行：让你的世界多一个维度 &emsp; [youtube](https://www.youtube.com/channel/UChjYHZ3yGQucOFw14BNnTqw/videos) &emsp; [bilibili](https://space.bilibili.com/43582057)
 
 - [思维改变命运 王魄](https://www.youtube.com/channel/UCK5qc9_Dz4L6Q6smjdXezgA/videos)
@@ -61,3 +63,25 @@
 - [Madelief Schram](https://www.youtube.com/channel/UC0cJHLIugWfd0eGIitA3ZDw/featured)
 
 - [Melon爸爸](https://www.youtube.com/channel/UCz2M8fFtkQE8gzdK8OrHXkQ)
+
+### 课程
+
+- [文献管理与信息分析](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbQazYWxC9KZBHjLvMJQLEG)
+
+- [北京大学 计算机概论(C语言)](https://www.bilibili.com/video/av26043975/?p=12)：生动，有趣
+
+- [周磊 电动力学](https://www.youtube.com/playlist?list=PLMhgO-ArH8RuDoNrasXuc8PBd1cv_4_om)
+
+- [北京大学：科学是什么](https://www.youtube.com/playlist?list=PL2UXTH6p_7LajHB-VjSztJqpsXfqTclex)
+
+- [李玫瑾公开课](https://www.youtube.com/watch?v=Wuhxppx1cL0)
+
+- [12堂超级搜索术](https://www.youtube.com/playlist?list=PLEo_akIUYI3GsqYMg_uqtVm0i01bIyCeU)
+
+- [线性代数的本质 - 系列合集](https://www.bilibili.com/video/av6731067)
+
+- [PPT科研作图系列教程](https://www.youtube.com/playlist?list=PLHgdxQZniYlUnb8Cp3K-xVBJh2LjMuPR1)
+
+- [思维导图（从入门到精通）](https://www.youtube.com/playlist?list=PLt5q-oC-97sfTfgvcuIi4-KlzIZdw7pKr)
+
+- [使用Endnote玩转文献管理](https://www.bilibili.com/video/av50972726/)

@@ -68,11 +68,11 @@
 
 - [文献管理与信息分析](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbQazYWxC9KZBHjLvMJQLEG)
 
-- [北京大学 计算机概论(C语言)](https://www.bilibili.com/video/av26043975/?p=12)：生动，有趣
+- [计算机概论(C语言)](https://www.bilibili.com/video/av26043975/?p=12)：生动，有趣
 
 - [周磊 电动力学](https://www.youtube.com/playlist?list=PLMhgO-ArH8RuDoNrasXuc8PBd1cv_4_om)
 
-- [北京大学：科学是什么](https://www.youtube.com/playlist?list=PL2UXTH6p_7LajHB-VjSztJqpsXfqTclex)
+- [科学是什么](https://www.youtube.com/playlist?list=PL2UXTH6p_7LajHB-VjSztJqpsXfqTclex)
 
 - [李玫瑾公开课](https://www.youtube.com/watch?v=Wuhxppx1cL0)
 

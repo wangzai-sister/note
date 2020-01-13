@@ -12,14 +12,8 @@ github：<a href="https://github.com/dingeral">dingeral</a>
 
 ### 一言 古诗词
 
-<br>
-
 <img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4">
 
 ### 视觉
 
-<br>
-
-![ENK25mLWkAIhhf2.jpeg](https://i.loli.net/2020/01/03/OsdmXykYZFpjg3q.jpg)
-
-1905 年，欧内斯特·卢瑟福在麦吉尔大学。卢瑟福是出生于新西兰的英国物理学家，后来被称为核物理学之父。
+![必应图片](http://s.cn.bing.net/th?id=OHR.PeruvianRainforest_ZH-CN4066508593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)

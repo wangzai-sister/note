@@ -8,6 +8,8 @@
 email：<a href="mailto:dingeral@outlook.com">dingeral</a>
 <br \>
 github：<a href="https://github.com/dingeral">dingeral</a>
+<br \>
+chat：<a href="https://hack.chat/?dingeral">dingeral</a>
 </address>
 
 ### 一言 古诗词

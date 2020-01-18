@@ -14,7 +14,7 @@ chat：<a href="https://hack.chat/?dingeral">dingeral</a>
 
 ### 一言 古诗词
 
-<img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4">
+<div align=center><img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4"/></div>
 
 ### 视觉
 

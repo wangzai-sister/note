@@ -18,4 +18,4 @@ chat：<a href="https://hack.chat/?dingeral">dingeral</a>
 
 ### 视觉
 
-![必应图片](http://s.cn.bing.net/th?id=OHR.PeruvianRainforest_ZH-CN4066508593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![必应图片](https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture)

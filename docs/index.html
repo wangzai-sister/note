@@ -12,11 +12,25 @@
   <style>
     td::before { display: none }
 </style>
+  <style>
+    nav.app-nav li ul {
+      min-width: 100px;
+    }
+  </style>
 </head>
+<body class="close"></body>
 <body>
   <div id="app">站在巨人的肩膀上</div>
   <script>
     window.$docsify = {
+      search: {
+      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      paths: 'auto',
+      placeholder: 'Type to search',
+      noData: 'No Results!',
+      depth: 6          // 搜索标题的最大程级, 1 - 6
+    },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
       themeColor: '#0E6D0B',
       loadSidebar: true,
     themeable: {
@@ -106,5 +120,5 @@
 </script>
 <script type="text/javascript" src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-latex.js"></script>
-</body>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </html>

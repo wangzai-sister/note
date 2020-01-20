@@ -64,6 +64,10 @@
 
 - [Melon爸爸](https://www.youtube.com/channel/UCz2M8fFtkQE8gzdK8OrHXkQ)
 
+- [Christinaaa呀](https://www.youtube.com/channel/UCKNjHc-zIdRa3uY1SmMWfBg)&emsp;[instagram](https://www.instagram.com/christinaaaya/)&emsp;👍
+
+- [Rachel皮皮姐姐](https://www.youtube.com/channel/UCCRFK6Mijqg3GBVafO50u1A/featured)
+
 ### 课程
 
 - [文献管理与信息分析](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbQazYWxC9KZBHjLvMJQLEG)

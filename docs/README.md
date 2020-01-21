@@ -19,3 +19,4 @@ chat：<a href="https://hack.chat/?dingeral">dingeral</a>
 ### 视觉
 
 ![必应图片](https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture)
+

@@ -340,11 +340,10 @@ $$
 | $\xi$         | \xi         |  $\Xi$         | \Xi         |
 | $\pi$         | \pi         | $\Pi$         | \Pi         |
 | $\varpi$      | \varpi      |  $\rho$        | \rho        |
-| $\varrho$     | \varrho     | $\sigma$      | \sigma      |
-| $\Sigma$      | \Sigma      | $\varsigma$   | \varsigma   |
-| $\tau$        | \tau        |
+| $\varrho$     | \varrho     | $\varsigma$   | \varsigma   |
+| $\Sigma$      | \Sigma      | $\sigma$      | \sigma      |
+| $\tau$        | \tau        | $\phi$        | \Phi        |
 | $\upsilon$    | \upsilon    | $\Upsilon$    | \Upsilon    |
-| $\phi$        | \Phi        |
 | $\varphi$     | \varphi     | $\chi$        | \chi        |
 | $\psi$        | \psi        | $\Psi$        | \Psi        |
 | $\omega$      | \omega      | $\Omega$      | \Omega      |

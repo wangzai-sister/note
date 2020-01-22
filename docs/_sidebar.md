@@ -6,7 +6,6 @@
     - [博客](/cy/博客.md)
     - [python](/cy/python.md)
     - [有趣](/cy/有趣.md)
-    - [工具](/cy/工具.md)
     - [问答|文章](/cy/问答|文章.md)
     - [电子书](/cy/电子书.md)
     - [微信公众号](/cy/wxgzh.md)
@@ -28,3 +27,5 @@
     - [书籍](/zy/books.md)
     - [优秀chrome插件](/zy/优秀chrome插件.md)
     - [分享](/zy/share.md)
+-  工具
+    - [集装箱](tools/a1.md)

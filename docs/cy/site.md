@@ -16,10 +16,10 @@
 
 - [Quora](https://www.quora.com/)
 
-- [数学乐](https://www.shuxuele.com)
+- [数学乐](https://www.shuxuele.com/)
 
 - [内江师范学院图书馆](http://lib.njtc.edu.cn/)
 
-- [科技熊工作室](https://kejibear.tk/)
+- [科技熊工作室](https://kejibear.ml/)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)

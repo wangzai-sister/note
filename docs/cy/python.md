@@ -18,6 +18,8 @@
 
 - [Python 挑战](http://www.pythonchallenge.com/)
 
+- [python 第三方库](https://pypi.org/)
+
 ### 模块
 
 - [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)

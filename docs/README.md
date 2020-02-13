@@ -16,10 +16,10 @@ chat：<a href="https://hack.chat/?dingeral">dingeral</a>
 
 <div align=center><img src="https://api.gushi.ci/all.svg?font-size=18&spacing=4"/></div>
 
-### 实时疫情地图
-
-[cinwell website](https://voice.baidu.com/act/newpneumonia/newpneumonia ':include :type=iframe width=100% height=800px')
-
 ### 视觉
 
 ![必应图片](https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture)
+
+### 实时疫情地图
+
+[cinwell website](https://voice.baidu.com/act/newpneumonia/newpneumonia ':include :type=iframe width=100% height=800px')

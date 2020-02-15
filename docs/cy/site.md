@@ -23,3 +23,5 @@
 - [科技熊工作室](https://kejibear.ml/)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
+
+- [阅读就像迎着朝阳走路](https://yearmonth.cn)

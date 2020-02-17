@@ -68,6 +68,8 @@
 
 - [Rachel皮皮姐姐](https://www.youtube.com/channel/UCCRFK6Mijqg3GBVafO50u1A/featured)
 
+- [墨水咸](https://www.youtube.com/channel/UCOpYdzhf-mtb9Rm5GEcJJMg)&emsp;👍
+
 ### 课程
 
 - [文献管理与信息分析](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbQazYWxC9KZBHjLvMJQLEG)

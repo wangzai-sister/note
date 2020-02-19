@@ -11,9 +11,9 @@
     - [微信公众号](/cy/wxgzh.md)
     - [值得买](/cy/值得买.md)
 - 学习
+    - [Youtube](学习/youtube.md)
     - [科研](/学习/科研.md)
     - [LATEX](/学习/LATEX数学公式基本语法.md)
-    - [Youtube](学习/youtube.md)
     - [阅读](学习/阅读.md)
 - 资源
     - [搜索|数据](/zy/s&d.md)

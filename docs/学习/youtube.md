@@ -70,6 +70,10 @@
 
 - [墨水咸](https://www.youtube.com/channel/UCOpYdzhf-mtb9Rm5GEcJJMg)&emsp;👍
 
+- [茉莉的学习之旅](https://www.youtube.com/channel/UCdZezdep4L5K8qmiTm-cOQQ/featured)
+
+- [Sophie /宝宝成长日记](https://www.youtube.com/channel/UC8F3dc3Pjtv75ptUTiOdhNg/featured)
+
 ### 课程
 
 - [文献管理与信息分析](https://www.youtube.com/playlist?list=PLBPbUxsZM4SbQazYWxC9KZBHjLvMJQLEG)

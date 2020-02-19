@@ -14,7 +14,7 @@
 
 - [石毓智](https://www.youtube.com/channel/UCtBe31z9V1CuaoGKKMww-Fg/videos)
 
-- [bonjour呼呼](https://www.youtube.com/channel/UCW9NeKfgO_uMy5-MqLNtiVw/videos) 
+- [bonjour呼呼](https://www.youtube.com/channel/UCW9NeKfgO_uMy5-MqLNtiVw/videos)
 
 - [健身女神张](https://www.youtube.com/channel/UCLsBq_2DiEsMq3PFGrvyifA/videos)
 
@@ -30,7 +30,7 @@
 
 - [minutephysics](https://www.youtube.com/user/minutephysics/community)
 
-- [幻海航行--science fiction](https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag/featured) 
+- [幻海航行--science fiction](https://www.youtube.com/channel/UCp1nO1bgVwks9b5EhKQGVag/featured)
 
 - [深夜讀書](https://www.youtube.com/channel/UCh9Tah6gvp-TY382FBQsU2w/videos)
 

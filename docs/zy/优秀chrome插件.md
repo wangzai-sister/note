@@ -14,7 +14,7 @@
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)：扩展为GitHub显示代码树
 
-- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_source=chrome-ntp-icon)：轻松快捷地管理和切换多个代理设置 
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_source=chrome-ntp-icon)：轻松快捷地管理和切换多个代理设置
 
 - [Search to Play the Song](https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm?utm_source=chrome-ntp-icon)：歌曲搜索试听 & 在线广播
 
@@ -33,22 +33,3 @@
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)：强大的密码管理
 
 - [Pinbox](https://chrome.google.com/webstore/detail/pinbox-%E7%BD%91%E7%BB%9C%E6%94%B6%E8%97%8F%E5%A4%B9/kmijeangnajdcaomdfjohhbmnbhnhjjd?utm_source=chrome-ntp-icon)：网络收藏夹
-
- 
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-

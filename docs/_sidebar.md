@@ -23,7 +23,6 @@
     - [音乐](/zy/音乐.md)
     - [视频](/zy/视频.md)
     - [软件](/zy/软件.md)
-    - [学习](/zy/学习.md)
     - [文献](/zy/文献.md)
     - [书籍](/zy/books.md)
     - [优秀chrome插件](/zy/优秀chrome插件.md)

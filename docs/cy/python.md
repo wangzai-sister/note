@@ -20,6 +20,8 @@
 
 - [python 第三方库](https://pypi.org/)
 
+- [Python-small-examples Documentation](https://python-small-examples.readthedocs.io/en/latest/)
+
 ### 模块
 
 - [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)

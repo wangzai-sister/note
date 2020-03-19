@@ -25,3 +25,7 @@
 ### 模块
 
 - [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)
+
+### 阅读
+
+- [理解Python中的if __name__ == '__main__':](https://www.yangsihan.com/article/2019/02/01/38/)

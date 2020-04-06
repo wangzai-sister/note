@@ -4,11 +4,11 @@
 
 - [Medium](https://medium.com/)
 
-- [廖雪峰](liaoxuefeng.com/)
+- [廖雪峰](https://liaoxuefeng.com/)
 
 - [实验楼](https://www.shiyanlou.com/)
 
-- [Study-Area](study-area.org)
+- [Study-Area](https://study-area.org)
 
 - [网易云音乐](https://music.163.com/#/user/home?id=498767570)
 

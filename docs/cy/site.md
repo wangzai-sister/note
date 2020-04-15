@@ -20,8 +20,6 @@
 
 - [内江师范学院图书馆](http://lib.njtc.edu.cn/)
 
-- [科技熊工作室](https://kejibear.ml/)
-
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [阅读就像迎着朝阳走路](https://yearmonth.cn/)

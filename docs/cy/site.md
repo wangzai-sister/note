@@ -2,6 +2,8 @@
 
 - [深度论坛](https://bbs.deepin.org/)
 
+- [笨方法成事](http://www.learnthingsthehardway.com/)
+
 - [Medium](https://medium.com/)
 
 - [廖雪峰](https://liaoxuefeng.com/)

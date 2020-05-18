@@ -16,8 +16,4 @@
 
 - [语雀](https://www.yuque.com/)
 
-- [https://jsproxy.warth.workers.dev/](https://jsproxy.warth.workers.dev/)：网页代理服务器
-
-- [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：谷歌学术镜像
-
-- [http://siguso.com/](http://siguso.com/)：长期更新谷歌学术镜像
+- [谷歌学术镜像](http://scholar.hedasudi.com/)

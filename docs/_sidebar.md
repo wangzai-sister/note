@@ -26,7 +26,6 @@
     - [软件](/zy/软件.md)
     - [文献](/zy/文献.md)
     - [书籍](/zy/books.md)
-    - [优秀chrome插件](/zy/优秀chrome插件.md)
     - [分享](/zy/share.md)
 -  工具
     - [集装箱](tools/a1.md)

@@ -5,3 +5,7 @@
 - [搜书VIP](http://www.soshuvip.com/all.html)
 
 - [aibooks](https://www.aibooks.cc/)
+
+- [i-Book](https://book.tstrs.me/)
+
+- [LoreFree](https://ebook2.lorefree.com/)

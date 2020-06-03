@@ -24,6 +24,8 @@
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
+- [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
+
 - [阅读就像迎着朝阳走路](https://yearmonth.cn/)
 
 - [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源

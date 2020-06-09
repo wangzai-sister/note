@@ -68,10 +68,9 @@
 
 ### 科普
 
-- [思维实验室 Thinking Lab](https://www.youtube.com/channel/UC5JA87f6nk-4q8t5DmKtJVQ)
+- 思维实验室 Thinking Lab &emsp;[youtube](https://www.youtube.com/channel/UC5JA87f6nk-4q8t5DmKtJVQ)&emsp; [bilibili](https://space.bilibili.com/14583962)
 
-- 回形针 PaperClip  
-[youtube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/featured)&emsp; [bilibili](https://space.bilibili.com/258150656/)&emsp; [微博](https://weibo.com/u/6414205745?is_hot=1)
+- 回形针 PaperClip &emsp;[youtube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg/featured)&emsp; [bilibili](https://space.bilibili.com/258150656/)&emsp; [微博](https://weibo.com/u/6414205745?is_hot=1)
 
 - [科学声音](https://www.youtube.com/channel/UCUBhobCkTLhgfUNRAgHSYmw/videos)
 
@@ -99,7 +98,7 @@
 
 - [bonjour 呼呼](https://www.youtube.com/channel/UCW9NeKfgO_uMy5-MqLNtiVw/videos)
 
-- [中正评测](https://www.youtube.com/channel/UCojSYgmO_EwKHNHPA9lhykA)
+- 中正评测&emsp;[youtube](https://www.youtube.com/channel/UCojSYgmO_EwKHNHPA9lhykA)&emsp;[bilibili](https://space.bilibili.com/178047796)
 
 ### 解说
 

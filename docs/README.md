@@ -22,4 +22,4 @@ twitter：<a href="https://twitter.com/dingerall">dingeral</a>
 
 ### 实时疫情地图
 
-[cinwell website](https://voice.baidu.com/act/newpneumonia/newpneumonia ':include :type=iframe width=100% height=800px')
+[实时疫情地图](https://voice.baidu.com/act/newpneumonia/newpneumonia ':include :type=iframe width=100% height=800px')

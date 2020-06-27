@@ -20,8 +20,6 @@
 
 - [数学乐](https://www.shuxuele.com/)
 
-- [内江师范学院图书馆](http://lib.njtc.edu.cn/)
-
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱

@@ -143,3 +143,5 @@
 - [使用Endnote玩转文献管理](https://www.bilibili.com/video/av50972726/)
 
 - [Python编程导论](https://www.youtube.com/playlist?list=PLX-gabPY3CQTBCKdCRPwjeCYvGOrvaoBU)
+
+- [信息论](https://www.youtube.com/playlist?list=PLlw6wj0Mn7-Le70gNOVS69tfir2PqKPjy)

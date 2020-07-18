@@ -38,6 +38,8 @@
 
 - [兄弟 大島ミチル](https://music.163.com/#/song?id=636907)
 
+- [Bushido](https://music.163.com/#/song?id=498320137)
+
 ### 歌者
 
 - [萨顶顶](https://music.163.com/#/user/home?id=106697055)

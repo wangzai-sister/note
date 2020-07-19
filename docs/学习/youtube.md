@@ -88,6 +88,8 @@
 
 - [OkButSoWhat](https://www.youtube.com/channel/UCE2tB8fPCGoMGAwwBMc7BuQ)
 
+- [小朱观地球](https://space.bilibili.com/128501332/)
+
 ### 成长
 
 - [茉莉的学习之旅](https://www.youtube.com/channel/UCdZezdep4L5K8qmiTm-cOQQ/featured)

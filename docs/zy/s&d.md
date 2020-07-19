@@ -1,10 +1,6 @@
 - [谷歌](https://www.google.com/)
 
-- [seeres](https://seeres.com/)
-
 - [维基百科](https://zh.wikipedia.org/)
-
-- [百度](https://www.baidu.com/)
 
 - [国家数据](http://data.stats.gov.cn/)
 

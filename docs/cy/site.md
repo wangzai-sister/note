@@ -1,10 +1,12 @@
 - [推特](https://twitter.com/)
 
+- [Quora](https://www.quora.com/)
+
+- [Medium](https://medium.com/)
+
 - [深度论坛](https://bbs.deepin.org/)
 
 - [笨方法成事](http://www.learnthingsthehardway.com/)
-
-- [Medium](https://medium.com/)
 
 - [廖雪峰](https://liaoxuefeng.com/)
 
@@ -16,14 +18,10 @@
 
 - [菜鸟教程](https://www.runoob.com/)
 
-- [Quora](https://www.quora.com/)
-
 - [数学乐](https://www.shuxuele.com/)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
-
-- [阅读就像迎着朝阳走路](https://yearmonth.cn/)
 
 - [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源

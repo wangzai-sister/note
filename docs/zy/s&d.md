@@ -1,4 +1,4 @@
-- [谷歌](https://www.google.com/)
+- [谷歌](https://www.google.com/) [👉](https://www.uedbox.com/post/54776/)
 
 - [维基百科](https://zh.wikipedia.org/)
 

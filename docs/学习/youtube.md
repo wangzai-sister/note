@@ -140,10 +140,10 @@
 
 - [PPT科研作图系列教程](https://www.youtube.com/playlist?list=PLHgdxQZniYlUnb8Cp3K-xVBJh2LjMuPR1)
 
-- [思维导图（从入门到精通）](https://www.youtube.com/playlist?list=PLt5q-oC-97sfTfgvcuIi4-KlzIZdw7pKr)
-
 - [使用Endnote玩转文献管理](https://www.bilibili.com/video/av50972726/)
 
 - [Python编程导论](https://www.youtube.com/playlist?list=PLX-gabPY3CQTBCKdCRPwjeCYvGOrvaoBU)
 
 - [信息论](https://www.youtube.com/playlist?list=PLlw6wj0Mn7-Le70gNOVS69tfir2PqKPjy)
+
+- [动态几何画板 Geogebra 教学应用](https://www.bilibili.com/video/BV1SE411y713?p=1)

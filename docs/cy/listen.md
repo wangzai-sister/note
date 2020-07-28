@@ -40,9 +40,11 @@
 
 - [Bushido](https://music.163.com/#/song?id=498320137)
 
-### 歌者
+### 歌手
 
 - [萨顶顶](https://music.163.com/#/user/home?id=106697055)
+
+- [张杰](https://music.163.com/#/artist?id=6472)
 
 ### 播客
 

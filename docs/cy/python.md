@@ -20,7 +20,7 @@
 
 - [python 第三方库](https://pypi.org/)
 
-- [Python-small-examples Documentation](https://python-small-examples.readthedocs.io/en/latest/)
+- [Python小例子](https://github.com/jackzhenguo/python-small-examples)
 
 ### 模块
 

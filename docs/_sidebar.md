@@ -21,12 +21,12 @@
 - 资源
     - [搜索|数据](/zy/s&d.md)
     - [新闻](/zy/news.md)
+    - [书籍](/zy/books.md)
     - [图片](/zy/图片.md)
     - [音频](/zy/音频.md)
     - [视频](/zy/视频.md)
     - [软件](/zy/软件.md)
     - [文献](/zy/文献.md)
-    - [书籍](/zy/books.md)
     - [分享](/zy/share.md)
 -  工具
     - [集装箱](/tools/a1.md)

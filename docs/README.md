@@ -18,5 +18,4 @@ twitter：<a href="https://twitter.com/dingerall">dingeral</a>
 
 ### 视觉
 
-![logo](https://api.ixiaowai.cn/gqapi/gqapi.php ':size=61%')
-
+![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php ':size=61%')

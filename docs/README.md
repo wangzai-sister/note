@@ -18,8 +18,5 @@ twitter：<a href="https://twitter.com/dingerall">dingeral</a>
 
 ### 视觉
 
-![必应图片](https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture)
+![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php)
 
-### 实时疫情地图
-
-[实时疫情地图](https://voice.baidu.com/act/newpneumonia/newpneumonia ':include :type=iframe width=100% height=800px')

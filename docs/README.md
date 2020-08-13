@@ -14,9 +14,9 @@ twitter：<a href="https://twitter.com/dingerall">dingeral</a>
 
 ### 一言 古诗词
 
-<div align=center><img src="https://v1.jinrishici.com/all.svg?font-size=18&spacing=4"/></div>
+<div align=left><img src="https://v1.jinrishici.com/all.svg?font-size=18&spacing=4"/></div>
 
 ### 视觉
 
-![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php)
+![logo](https://api.ixiaowai.cn/gqapi/gqapi.php ':size=61%')
 

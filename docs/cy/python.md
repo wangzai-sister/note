@@ -29,3 +29,7 @@
 ### 阅读
 
 - [理解Python中的if __name__ == '__main__':](https://www.yangsihan.com/article/2019/02/01/38/)
+
+### 工具
+
+- [Colab](https://colab.research.google.com/)

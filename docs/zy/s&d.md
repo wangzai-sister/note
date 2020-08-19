@@ -1,5 +1,7 @@
 - [谷歌](https://www.google.com/) [👉](https://www.uedbox.com/post/54776/)
 
+- [谷歌趋势](https://trends.google.com/trends/?geo=CN)
+
 - [维基百科](https://zh.wikipedia.org/)
 
 - [国家数据](http://data.stats.gov.cn/)

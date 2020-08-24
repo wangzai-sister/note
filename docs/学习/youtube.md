@@ -50,6 +50,8 @@
 
 - [Brilliant](https://www.youtube.com/channel/UCzfS1dvWgkCQppv31mRvxqw)
 
+- [suelence](https://space.bilibili.com/10948471/)：she 的读书记录
+
 ### 学习、认知
 
 - [Jango Y](https://www.youtube.com/channel/UCUrJvRXzVBOYtHBs9fDnJEw/videos)

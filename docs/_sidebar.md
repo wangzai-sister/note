@@ -12,7 +12,7 @@
 - 学习
     - [学习观](/学习/学习观.md)
     - [思维导图](学习/思维导图.md)
-    - [python](/docs/学习/python.md)
+    - [python](/学习/python.md)
     - [Youtube](/学习/youtube.md)
     - [科研](/学习/科研.md)
     - [LATEX](/学习/LATEX数学公式基本语法.md)

@@ -34,6 +34,8 @@
 
 - [理解Python中的if __name__ == '__main__':](https://www.yangsihan.com/article/2019/02/01/38/)
 
+- [在 Google Colab 中使用 turtle](https://stackoom.com/question/3qeH8/%E5%9C%A8Google-Colab%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B9%8C%E9%BE%9F%E5%9B%BE%E5%BD%A2)
+
 ### 工具
 
 - [Colab](https://colab.research.google.com/)

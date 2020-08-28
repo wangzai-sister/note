@@ -22,6 +22,8 @@
 
 - [Python小例子](https://github.com/jackzhenguo/python-small-examples)
 
+- [Python 3.8.5 文档](https://docs.python.org/zh-cn/3/)
+
 ### 模块
 
 - [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)
@@ -29,6 +31,8 @@
 - [math](https://docs.python.org/zh-cn/3/library/math.html)
 
 - [random](https://docs.python.org/zh-cn/3/library/random.html)
+
+- [datetime](https://docs.python.org/zh-cn/3/library/datetime.html)
 
 ### 阅读
 

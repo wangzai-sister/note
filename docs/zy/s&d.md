@@ -1,5 +1,7 @@
 - [谷歌](https://www.google.com/) [👉](https://www.uedbox.com/post/54776/)
 
+- [儿童搜索引擎](https://kidssearch.com/)
+
 - [知乎](https://www.zhihu.com/explore)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)

@@ -31,6 +31,9 @@
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       themeColor: '#0E6D0B',
       loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',
+    },
       name: '书签',
       subMaxLevel: 3,
       repo: '',
@@ -45,30 +48,7 @@
                     }
                 })
             },
-            function(hook, vm) {
-      hook.doneEach(function() {
-        document.querySelectorAll(".sidebar-nav > ul > li").forEach(
-          function(node, index, nodelist) {
-            var span = document.createElement("span");
-            span.innerHTML = node.firstChild.data;
-            span.style.cursor = "pointer";
-            span.onclick = function(event) {
-              var ul = event.target.nextElementSibling;
-              if (ul.style.display === "none") {
-                ul.style.display = "block";
-              } else {
-                ul.style.display = "none";
-              }
-            };
-            node.firstChild.replaceWith(span);
-            node.lastChild.style.display = "none";
-        });
-        var active = document.querySelector(".sidebar-nav li.active");
-        if (active) {
-          active.parentElement.style.display = "block";
-        }
-      });
-    },
+//
 
     function(hook, vm) {
       hook.ready(function () {
@@ -114,4 +94,5 @@
 </script>
 <script src="//unpkg.com/prismjs/components/prism-latex.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+<script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </html>

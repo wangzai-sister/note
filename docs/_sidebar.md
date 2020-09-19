@@ -31,6 +31,7 @@
     - [文献](/zy/文献.md)
     - [分享](/zy/share.md)
 -  工具
+    - [利刃](tools/利刃.md)
     - [集装箱](/tools/a1.md)
     - [git SF](/tools/a2.md)
 -  车库

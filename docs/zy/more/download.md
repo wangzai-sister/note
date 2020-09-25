@@ -66,7 +66,7 @@ http://trial2.autodesk.com/NetSWDLD/2021/ACD/9046B381-E756-4D38-A7EF-FAD07F4456E
 
 百度网盘：https://pan.baidu.com/s/16_2lQk7Mq-0ORoqYKEFYGw 提取码：jygg
 
-解压密码:@vposy
+解压密码：@vposy
 
 安装教程：略
 

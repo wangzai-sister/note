@@ -6,4 +6,3 @@
 
 - [英 副](http://download.celebes.live/)
 
-- [delivery 软件](https://delivery.yuntu.dev/)

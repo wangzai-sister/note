@@ -64,7 +64,9 @@ http://trial2.autodesk.com/NetSWDLD/2021/ACD/9046B381-E756-4D38-A7EF-FAD07F4456E
 <details>
 <summary>查看（点击展开）</summary>
 
-百度网盘：https://pan.baidu.com/s/16_2lQk7Mq-0ORoqYKEFYGw 提取码：jygg
+Adobe 2020 全家桶
+
+链接：https://pan.baidu.com/s/16_2lQk7Mq-0ORoqYKEFYGw 提取码：jygg
 
 解压密码：@vposy
 

@@ -51,7 +51,7 @@ AutoCAD 2021 简体中文版
 
 链接: https://pan.baidu.com/s/1wZyFDN1QVV1dUnP7QOiqeA#list/ath=%2F 提取码：4ua3
 
-AAutoCAD 2021 x64 官方简体中文版
+AutoCAD 2021 官方简体中文版
 
 http://trial2.autodesk.com/NetSWDLD/2021/ACD/9046B381-E756-4D38-A7EF-FAD07F4456E6/SFX/AutoCAD_2021_Simplified_Chinese_Win_64bit_dlm.sfx.exe
 

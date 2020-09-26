@@ -1,4 +1,4 @@
-- [谷歌](https://www.google.com/) [👉](https://www.uedbox.com/post/54776/)
+- [谷歌](https://www.google.com/) [👉](https://www.library.ac.cn/)
 
 - [儿童搜索引擎](https://kidssearch.com/)
 

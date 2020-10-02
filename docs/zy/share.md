@@ -1,3 +1,1 @@
-### By dingeral
-
-- [琉璃](https://share.dingeral.workers.dev/)
+- [琉璃](https://share.dingeral.workers.dev/) by dingeral

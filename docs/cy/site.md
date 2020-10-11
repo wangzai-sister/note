@@ -8,6 +8,8 @@
 
 - [笨方法成事](http://www.learnthingsthehardway.com/)
 
+- [amazon](https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&node=116169071&ref_=nav_topnav_giftcert)
+
 - [廖雪峰](https://liaoxuefeng.com/)
 
 - [实验楼](https://www.shiyanlou.com/)

@@ -1,5 +1,7 @@
 - [谷歌](https://www.google.com/) [👉](https://www.library.ac.cn/)
 
+- [Google Drive搜索引擎](https://gezhong.vip/)
+
 - [儿童搜索引擎](https://kidssearch.com/)
 
 - [知乎](https://www.zhihu.com/explore)

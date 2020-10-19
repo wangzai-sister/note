@@ -149,3 +149,5 @@
 - [信息论](https://www.youtube.com/playlist?list=PLlw6wj0Mn7-Le70gNOVS69tfir2PqKPjy)
 
 - [动态几何画板 Geogebra 教学应用](https://www.bilibili.com/video/BV1SE411y713?p=1)
+
+- [麻省理工开放课程：线性代数](https://www.youtube.com/playlist?list=PL6839449936471E0C)

@@ -4,6 +4,8 @@
 
 - [Medium](https://medium.com/)
 
+- [豆瓣读书](https://book.douban.com/)
+
 - [深度论坛](https://bbs.deepin.org/)
 
 - [笨方法成事](http://www.learnthingsthehardway.com/)

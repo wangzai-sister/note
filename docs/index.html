@@ -55,10 +55,6 @@
 
             function(hook, vm) {
 
-              hook.doneEach(function() {
-                twemoji.parse(document);
-            });
-
               hook.ready(function () {
                 mermaid.initialize({startOnLoad: false});
               });

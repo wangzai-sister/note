@@ -49,21 +49,9 @@
                         MathJax.Hub.Queue(["Typeset", MathJax.Hub])
                     }
                 })
-            },
-
-// 导航目录插件
-
-            function(hook, vm) {
-
-              hook.ready(function () {
-                mermaid.initialize({startOnLoad: false});
-              });
-              hook.doneEach(function () {
-                mermaid.init(undefined,'.mermaid');
-              });
-            }
-                ],
-                markdown: {
+               },
+             ],
+           markdown: {
             renderer: {
               code: function(code, lang) {
                 var html = '';
@@ -80,7 +68,6 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/external-script.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({

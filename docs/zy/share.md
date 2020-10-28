@@ -3,3 +3,5 @@
 - [dingeral's OneDrive](https://storage.dingeral.com/) by dingeral
 
 - [Spencer's OneDrive](https://storage.spencerwoo.com/) by Spencer
+
+- [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/) by xyjoey

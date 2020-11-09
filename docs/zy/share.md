@@ -5,3 +5,6 @@
 - [Spencer's OneDrive](https://storage.spencerwoo.com/) by Spencer
 
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/) by xyjoey
+
+- [萌新云盘](https://pan.macxin.com/) by 刘 晨
+

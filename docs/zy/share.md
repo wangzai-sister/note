@@ -9,4 +9,3 @@
 - [萌新云盘](https://pan.macxin.com/) by 刘晨
 
 - [极客云盘](https://pan.him.plus/) by HIM
-

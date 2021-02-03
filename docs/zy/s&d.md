@@ -10,6 +10,8 @@
 
 - [维基百科](https://zh.wikipedia.org/)
 
+- [维基教科书](https://zh.m.wikibooks.org/wiki/Wikibooks:%E9%A6%96%E9%A1%B5)
+
 - [国家数据](http://data.stats.gov.cn/)
 
 - [虫部落](http://www.chongbuluo.com/)：一个神级搜索网站

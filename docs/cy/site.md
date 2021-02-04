@@ -29,3 +29,5 @@
 - [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
 
 - [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源
+
+- [library](https://www.library.ac.cn/)

@@ -1,4 +1,7 @@
 - [谷歌](https://www.google.com/)
+
+- [维基百科](https://zh.wikipedia.org/)
+
 - [Google Drive搜索引擎](https://gezhong.vip/)
 
 - [儿童搜索引擎](https://kidssearch.com/)
@@ -6,8 +9,6 @@
 - [知乎](https://www.zhihu.com/explore)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
-
-- [维基百科](https://zh.wikipedia.org/)
 
 - [维基教科书](https://zh.m.wikibooks.org/wiki/Wikibooks:%E9%A6%96%E9%A1%B5)
 

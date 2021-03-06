@@ -12,8 +12,6 @@
 
 - [书伴](https://bookfere.com/)
 
-- [伴读](https://www.bandubook.com/)
-
 > 付费模式
 
 1. 安装 [红太狼的平底锅](https://greasyfork.org/zh-CN/scripts/388744-%E7%BA%A2%E5%A4%AA%E7%8B%BC%E7%9A%84%E5%B9%B3%E5%BA%95%E9%94%85) 脚本

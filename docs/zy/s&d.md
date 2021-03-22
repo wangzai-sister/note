@@ -1,8 +1,6 @@
 - [谷歌](https://www.google.com/)
 
-- [维基百科](https://zh.wikipedia.org/)
-
-- [Google Drive搜索引擎](https://gezhong.vip/)
+- [维基百科](https://zh.wikipedia.org/) [👉](http://www.33dm.net/mod/2/?url=/wiki/Wikipedia:%e9%a6%96%e9%a1%b5)
 
 - [儿童搜索引擎](https://kidssearch.com/)
 

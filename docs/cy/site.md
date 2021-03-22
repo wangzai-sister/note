@@ -31,5 +31,3 @@
 - [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源
 
 - [lesswrong](https://www.lesswrong.com/)
-
-- [library](https://www.library.ac.cn/)

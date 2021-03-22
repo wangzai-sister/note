@@ -19,3 +19,5 @@
 - [wikihow](https://zh.wikihow.com/)：一个综合技能搜索网站，不懂就问
 
 - [语雀](https://www.yuque.com/)
+
+- [更多](https://www.library.ac.cn/)

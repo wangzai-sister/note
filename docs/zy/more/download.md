@@ -9,7 +9,7 @@
 
 |       软件        |                                        链接                                         |   安装教程    |     其他      |
 | :---------------: | :---------------------------------------------------------------------------------: | :-----------: | :-----------: |
-|   Origin 2019b    |   链接: https://pan.baidu.com/share/init?surl=SW29cO7Gaja6fN04XC4abg 提取码：giwd   | [安装教程][2] |               |
+|   Origin 2019b    |   链接: https://pan.baidu.com/s/1PcAOnzJJ2uVenKCfN9ktag 提取码：r23c   | [安装教程][2] |               |
 |   Matlab R2020b   |   链接: https://pan.baidu.com/share/init?surl=SW29cO7Gaja6fN04XC4abg 提取码：giwd   | [安装教程][3] |               |
 |      Office       |                 [Office Tool Plus](https://otp.landian.vip/zh-cn/#)                 |               |               |
 |   AutoCAD 2021    |   链接: https://pan.baidu.com/s/1wZyFDN1QVV1dUnP7QOiqeA#list/ath=%2F 提取码：4ua3   | [安装教程][4] | [官方下载][5] |

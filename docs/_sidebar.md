@@ -13,7 +13,7 @@
     - [学习技巧](学习/学习技巧.md)
     - [思维导图](学习/思维导图.md)
     - [python](/学习/python.md)
-    - [Youtube](/学习/youtube.md)
+    <!-- - [Youtube](/学习/youtube.md) -->
     - [科研](/学习/科研.md)
     - [LATEX](/学习/LATEX数学公式基本语法.md)
     - [阅读](/学习/阅读.md)

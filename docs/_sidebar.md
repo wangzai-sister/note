@@ -15,7 +15,6 @@
     - [python](/学习/python.md)
     <!-- - [Youtube](/学习/youtube.md) -->
     - [科研](/学习/科研.md)
-    - [LATEX](/学习/LATEX数学公式基本语法.md)
     - [阅读](/学习/阅读.md)
     - [分科](/学习/分科.md)
 - 📁 资料
@@ -32,6 +31,7 @@
     - [利刃](tools/利刃.md)
     - [集装箱](/tools/a1.md)
     - [git SF](/tools/a2.md)
+    - [LATEX](/docs/tools/LATEX数学公式基本语法.md)
 <!-- - 🔭 碎片
     - [字体](车库/字体.md)
     - [hot](车库/hot.md)

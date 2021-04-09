@@ -24,6 +24,6 @@
 2. 搜索书籍（[全国图书馆参考咨询联盟](http://book.ucdrs.superlib.net/advsearch.jsp?null)）
 3. 少量付费（通常 3 元一本）
 
-### kindl 推送
+### kindle 推送
 
 - [PUSH TO KINDLE](https://tokindle.top/)

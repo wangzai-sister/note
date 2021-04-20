@@ -31,3 +31,5 @@
 - [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源
 
 - [lesswrong](https://www.lesswrong.com/)
+
+- [XKCD](https://xkcd.in/)：XKCD中文站，一个关于浪漫、隐喻、数字、以及语言的线上漫画。

@@ -24,6 +24,12 @@
 
 - [Python 3.8.5 文档](https://docs.python.org/zh-cn/3/)
 
+- [实验楼](https://www.shiyanlou.com/)
+
+- [Study-Area](https://study-area.org)
+
+- [菜鸟教程](https://www.runoob.com/)
+
 ### 模块
 
 - [turtle](https://docs.python.org/zh-cn/3/library/turtle.html)

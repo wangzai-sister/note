@@ -1,3 +1,5 @@
+- [Github](https:/github.com/)
+
 - [推特](https://twitter.com/)
 
 - [Quora](https://www.quora.com/)
@@ -15,8 +17,6 @@
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
-
-- [柴都导航](https://www.chaidu.com)：汇集全网优质网址及资源
 
 - [lesswrong](https://www.lesswrong.com/)
 

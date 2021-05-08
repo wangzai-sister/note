@@ -4,7 +4,7 @@
 
 ### 书籍下载
 
-- [ePUBee](http://www.ferebook.com/books/)
+- [ePUBee](http://www.obook.vip/files.aspx)
 
 - [鸠摩搜书](https://www.jiumodiary.com/)
 

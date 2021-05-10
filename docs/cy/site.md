@@ -6,6 +6,8 @@
 
 - [Medium](https://medium.com/)
 
+- [科学网](http://www.sciencenet.cn/)
+
 - [豆瓣读书](https://book.douban.com/)
 
 - [深度论坛](https://bbs.deepin.org/)

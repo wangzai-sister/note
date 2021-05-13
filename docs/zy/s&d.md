@@ -1,5 +1,7 @@
 - [谷歌](https://www.google.com/)
 
+- [Library Mirror](https://www.library.ac.cn/)
+
 - [Timelapse](http://goo.gle/timelapse)
 
 - [维基百科](https://zh.wikipedia.org/) 
@@ -21,5 +23,3 @@
 - [wikihow](https://zh.wikihow.com/)：一个综合技能搜索网站，不懂就问
 
 - [语雀](https://www.yuque.com/)
-
-- [更多](https://www.library.ac.cn/)

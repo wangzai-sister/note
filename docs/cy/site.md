@@ -1,4 +1,4 @@
-- [Github](https://github.com/)
+- [GitHub](https://github.com/)
 
 - [推特](https://twitter.com/)
 

@@ -12,7 +12,7 @@
 
 - [深度论坛](https://bbs.deepin.org/)
 
-- [笨方法成事](http://www.learnthingsthehardway.com/)
+- [笨方法成事](https://hardwaylab.com/)
 
 - [amazon](https://www.amazon.cn/)
 

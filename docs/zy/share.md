@@ -7,3 +7,5 @@
 - [萌新云盘](https://pan.macxin.com/) by 刘晨
 
 - [随缘分享](https://syfx.herokuapp.com/syfx)
+
+- [青柠の藏经阁](https://spcn.cyanlemon.net/onedrive/)

@@ -2,11 +2,7 @@
 
 对平时用过的书签和笔记做一下记录，以备查看。
 
-现在主要使用 Notion，故这里只做基本维护。（2021.3.30）
-
-<span id="busuanzi_container_site_uv">
-  👁️‍🗨️<span id="busuanzi_value_site_uv"></span>
-</span>
+<!-- 现在主要使用 Notion，故这里只做基本维护。（2021.3.30） -->
 
 ### 一言 古诗词
 

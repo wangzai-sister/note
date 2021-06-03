@@ -1,6 +1,8 @@
+- [Twitter](https://twitter.com/)
+
 - [GitHub](https://github.com/)
 
-- [推特](https://twitter.com/)
+- [深度论坛](https://bbs.deepin.org/)
 
 - [Quora](https://www.quora.com/)
 
@@ -9,8 +11,6 @@
 - [科学网](http://www.sciencenet.cn/)
 
 - [豆瓣读书](https://book.douban.com/)
-
-- [深度论坛](https://bbs.deepin.org/)
 
 - [笨方法成事](https://hardwaylab.com/)
 
